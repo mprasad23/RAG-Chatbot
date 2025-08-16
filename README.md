@@ -16,6 +16,7 @@ Retrieves the most relevant context for answering user queries.
 Prepares a structured instruction prompt for the chatbot.
 
 📂 Project Structure
+
 ├── Ashoka the Great.txt    # Dataset with knowledge about Ashoka
 ├── main.py                 # Main chatbot script
 └── README.md               # Documentation
